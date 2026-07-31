@@ -5,11 +5,10 @@
 I am an aspiring **Data Analyst** with **2 years of experience as an Operations Analyst at Tata Consultancy Services (TCS)**. I enjoy transforming raw data into meaningful business insights through dashboards, reporting, and analytics.
 
 🌱 Currently learning:
-- Advanced SQL
-- Power BI
-- Python for Data Analytics
-- Data Visualization
-- Business Intelligence
+- Microsoft Fabric 
+- Data Bricks 
+- Snowflake
+- Azure
 
 ---
 
@@ -24,6 +23,7 @@ I am an aspiring **Data Analyst** with **2 years of experience as an Operations 
 - Power BI
 - DAX
 - Power Query
+- Tableau
 
 ### Analytics
 - Data Cleaning
